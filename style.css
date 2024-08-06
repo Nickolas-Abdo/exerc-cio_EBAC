@@ -1,0 +1,20 @@
+h1{
+    color: green;
+}
+
+h2{
+    color: rgb(0, 68, 128);
+}
+img{
+    height: 300px;
+    width: 300
+    ;
+}
+
+#entretenimento{
+    background-color: rgba(0, 255, 0 , 0.7)
+}
+
+#tecnologia{
+    background-color: aqua;
+}
